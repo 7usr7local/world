@@ -280,7 +280,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"..\/..\/..\/rC3\/workadventure-xce-map-starter-kit-main\/mapUtilities.png",
+         "image":"mapUtilities.png",
          "imageheight":34,
          "imagewidth":306,
          "margin":1,
@@ -303,7 +303,7 @@
         {
          "columns":16,
          "firstgid":10,
-         "image":"..\/..\/..\/rC3\/workadventure-xce-map-starter-kit-main\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -316,7 +316,7 @@
         {
          "columns":16,
          "firstgid":266,
-         "image":"..\/..\/..\/rC3\/workadventure-xce-map-starter-kit-main\/BaseChip_pipo_rearranged.png",
+         "image":"BaseChip_pipo_rearranged.png",
          "imageheight":2380,
          "imagewidth":544,
          "margin":1,
